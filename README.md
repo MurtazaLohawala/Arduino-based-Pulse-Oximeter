@@ -3,13 +3,13 @@ Welcome to the Arduino-Based Pulse Oximeter project! This repository contains al
 
 An Arduino-based pulse oximeter to measure oxygen saturation (SpO2) and pulse rate.
 
-Features
+Features --> 
 Measures oxygen saturation (SpO2)
 Tracks pulse rate (BPM)
 Real-time display on OLED
 Compact and portable
 
-Components
+Components -->
 Arduino board (e.g., Uno, Nano, Mega)
 Pulse oximeter sensor (e.g., MAX30100, MAX30102)
 OLED display (e.g., 0.96" I2C OLED)
